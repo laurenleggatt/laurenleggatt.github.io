@@ -281,7 +281,7 @@ BIO
   height: 350px;
   background: linear-gradient(#222, transparent 30%),
     linear-gradient(0deg, #222, transparent 30%), url('lumas2.jpg');
-  background-attachment: fixed;
+  /*background-attachment: fixed;*/
   background-size: cover;
   background-position: center;
   overflow: hidden;
@@ -355,7 +355,7 @@ SUITE
   height: 350px;
   background: linear-gradient(#222, transparent 30%),
     linear-gradient(0deg, #222, transparent 30%), url('lumas3.jpg');
-  background-attachment: fixed;
+  /*background-attachment: fixed;*/
   background-size: cover;
   background-position: center;
   overflow: hidden;
